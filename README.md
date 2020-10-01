@@ -1,2 +1,2 @@
 # Project-EULER
-10 Questions were solved in C++
+- 10 Questions were solved in C++ & Java
